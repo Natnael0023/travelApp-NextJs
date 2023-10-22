@@ -25,7 +25,7 @@ const NavBar = () => {
             type="button" 
             title="Login" 
             icon="" 
-            variant='bg-emerald-950'/>
+            variant='bg-emerald-950 text-white'/>
       </div>
 
       <Image 
