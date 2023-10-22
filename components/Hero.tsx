@@ -14,7 +14,7 @@ const Hero = () => {
                     height={100}
                     className='absolute left-0 top-0 w-20 lg:w-14'
                     />
-                <h1 className=' lg:text-8xl sm:text-4xl text-3xl mt-12 font-bold lg:font-bold z-50'>Lorm ipsm dolor</h1>
+                <h1 className=' lg:text-8xl sm:text-4xl text-3xl mt-12 font-bold lg:font-bold z-50'>Travel and we will sort it out</h1>
                 <p className=' mt-6 text-gray-20 xl:max-w-100'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ea suscipit modi laborum obcaecati, impedit exercitationem laboriosam. Consequatur, molestiae maxime.</p>
                 <div className=' my-11 flex flex-wrap gap-5 '>
                     <div className=' flex items-center gap-2  '>
@@ -35,13 +35,13 @@ const Hero = () => {
                         <Button
                             type='button'
                             title="Download App"
-                            variant='bg-green-50'
+                            variant='bg-green-50 text-white'
                             />
                         <Button
                             type='button'
                             title="How we work?"
                             icon='/play.svg'
-                            variant=' text-black bg-white border-2'
+                            variant='border text-green-50'
                             />
                 </div>
             </div>
