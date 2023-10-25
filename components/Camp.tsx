@@ -59,7 +59,7 @@ const Camp = () => {
 
           <CampSite
           bgImg="bg-bg-img-2"
-          title="Afar"
+          title="Awash"
           subtitle="lorem ipsum dolor sit amet"
           ppl="20"
           />
